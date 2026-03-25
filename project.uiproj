@@ -1,0 +1,6 @@
+{
+  "Name": "BiggerBoss",
+  "ProjectType": "Process",
+  "Description": "Infrastructure",
+  "MainFile": "Main.xaml"
+}
